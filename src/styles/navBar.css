@@ -29,7 +29,7 @@ nav ol {
     background-color: rgb(57, 57, 57);
 }
 
-nav ol li a {
+.navLink {
     text-decoration: none;
     color: white;
 }

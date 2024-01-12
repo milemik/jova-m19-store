@@ -6,10 +6,10 @@ export default function NavBar() {
         <div className="right">
             <ol>
                 <li className="navListItem">
-                    <a href="/"><h1>Odeca</h1></a>
+                    <a className="navLink" href="/"><h1>Odeca</h1></a>
                 </li>
                 <li className="navListItem">
-                    <a href="/"><h1>O nama</h1></a>
+                    <a className="navLink" href="/"><h1>O nama</h1></a>
                 </li>
             </ol>
         </div>
